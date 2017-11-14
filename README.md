@@ -6,4 +6,4 @@ ICalculator is a simple Java program that calculates the value of your investmen
 * Interest - the compound interest rate at which your investments will grow
 * Contribution - the monthly contribution you make to your investments
 
-ICalculator uses these four pieces of information to calculate the expected value of your investments at the end of the time frame.
+For every year, ICalculator adds the total yearly contribution to the current value of the investments and applies the interest rate to the total. The total amount after the given time period is displayed to the user.
